@@ -1,0 +1,29 @@
+/home/alex/Documentos/Oaxaca_emprende/bin/Debug/net9.0/Oaxaca_emprende
+/home/alex/Documentos/Oaxaca_emprende/bin/Debug/net9.0/Oaxaca_emprende.deps.json
+/home/alex/Documentos/Oaxaca_emprende/bin/Debug/net9.0/Oaxaca_emprende.runtimeconfig.json
+/home/alex/Documentos/Oaxaca_emprende/bin/Debug/net9.0/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/bin/Debug/net9.0/Oaxaca_emprende.pdb
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.AssemblyInfoInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.AssemblyInfo.cs
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/refint/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.pdb
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/Oaxaca_emprende.genruntimeconfig.cache
+/home/alex/Documentos/Oaxaca_emprende/obj/Debug/net9.0/ref/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/bin/Debug/net9.0/Oaxaca_emprende
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/bin/Debug/net9.0/Oaxaca_emprende.deps.json
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/bin/Debug/net9.0/Oaxaca_emprende.runtimeconfig.json
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/bin/Debug/net9.0/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/bin/Debug/net9.0/Oaxaca_emprende.pdb
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.AssemblyInfoInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.AssemblyInfo.cs
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.sourcelink.json
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/refint/Oaxaca_emprende.dll
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.pdb
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/Oaxaca_emprende.genruntimeconfig.cache
+/home/alex/Documentos/Oaxaca_emprende/Primer Proyecto/obj/Debug/net9.0/ref/Oaxaca_emprende.dll

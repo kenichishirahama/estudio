@@ -1,0 +1,15 @@
+/home/alex/Documentos/Oaxaca_emprende/second_project/bin/Debug/net9.0/second_project
+/home/alex/Documentos/Oaxaca_emprende/second_project/bin/Debug/net9.0/second_project.deps.json
+/home/alex/Documentos/Oaxaca_emprende/second_project/bin/Debug/net9.0/second_project.runtimeconfig.json
+/home/alex/Documentos/Oaxaca_emprende/second_project/bin/Debug/net9.0/second_project.dll
+/home/alex/Documentos/Oaxaca_emprende/second_project/bin/Debug/net9.0/second_project.pdb
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.AssemblyInfoInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.AssemblyInfo.cs
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.csproj.CoreCompileInputs.cache
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.sourcelink.json
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.dll
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/refint/second_project.dll
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.pdb
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/second_project.genruntimeconfig.cache
+/home/alex/Documentos/Oaxaca_emprende/second_project/obj/Debug/net9.0/ref/second_project.dll
