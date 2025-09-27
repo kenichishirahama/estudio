@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Oaxaca_emprende/1.0.0": {
+        "runtime": {
+          "Oaxaca_emprende.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oaxaca_emprende/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
